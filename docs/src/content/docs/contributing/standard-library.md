@@ -8,7 +8,7 @@ The standard library is a collection of mixins to simplify and prevent redundant
 In userstyles, the standard library is imported at the top like so (along with other [library modules](/contributing/library-modules/)):
 
 ```less
-@import "https://userstyles.catppuccin.com/lib/lib.less";
+@import "/home/laperex/.temp/userstyles/lib/lib.less";
 ```
 
 ## API
